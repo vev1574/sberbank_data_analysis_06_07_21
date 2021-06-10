@@ -11,26 +11,26 @@
 3. Основное рабочее пространство курса - Jupyter Notebook. Установить (conda/pip): https://jupyter.org/install
 
 4. Основное средство коммуникации курса - [группа в Telegram](https://t.me/joinchat/6WT5_T12jUU5NDAy)
-5. Записи лекций - [Google Drive](https://drive.google.com/drive/folders/1vwZsQAQfgDfQ3HWIide58-va728QjltB?usp=sharing)
+5. Отправлять домашние задания или через [pull request](https://drive.google.com/drive/folders/1vwZsQAQfgDfQ3HWIide58-va728QjltB?usp=sharing) или письмом с вложением на aleksei.riabykh@gmail.com
 
 ### О курсе
-- **Формат**: онлайн вебинары по 2 часа, 5 домашних работ, 1 финальный проект
+- **Формат**: онлайн вебинары по 2 часа, 5 основных домашних работ, 2 бонусных задания
 - **Дни занятий**: вторник и четверг, 18:30 – 20:30
 - **Продолжительность**: 5 недель
-- **Старт**: 01.04.2021
+- **Старт**: 08.06.2021
 
 
 ### Программа курса
-- **01.04.2021** Табличные данные: Pandas 
-- **06.04.2021** Матричные вычисления: Numpy
-- **08.04.2021** Визуализация данных: Matplotlib, Plotly, Dash
-- **13.04.2021** Временные ряды: Pandas 
-- **15.04.2021** Гео-данные: Folium, GeoPandas, PySAL 
-- **20.04.2021** Текстовые данные: NTLK, Gensim, WordCloud, Natasha
-- **22.04.2021** Изображения: Skimage, Scipy 
-- **27.04.2021** Аудио данные: Librosa, Scipy
-- **29.04.2021** Графовые данные: Networkx, Graphviz
-- **04.05.2021** Парсинг данных: BeautifulSoup, Selenium
-- **06.05.2021** Разбор домашних заданий / защита проектов
+- **10.06.2021** Табличные данные: Pandas 
+- **15.06.2021** Матричные вычисления: Numpy
+- **17.06.2021** Визуализация данных: Matplotlib, Plotly, Dash
+- **22.06.2021** Временные ряды: Pandas 
+- **24.06.2021** Гео-данные: Folium, GeoPandas, PySAL 
+- **29.06.2021** Текстовые данные: NTLK, Gensim, WordCloud, Natasha
+- **01.07.2021** Изображения: Skimage, Scipy, OpenCV 
+- **06.07.2021** Аудио данные: Librosa, Scipy
+- **08.07.2021** Графовые данные: Networkx, Graphviz
+- **13.07.2021** Парсинг данных: BeautifulSoup, Selenium, Scrapy
+- **15.07.2021** Разбор домашних заданий и выставление оценок
 
 
